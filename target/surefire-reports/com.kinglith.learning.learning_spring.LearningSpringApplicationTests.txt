@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kinglith.learning.learning_spring.LearningSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.271 s -- in com.kinglith.learning.learning_spring.LearningSpringApplicationTests
